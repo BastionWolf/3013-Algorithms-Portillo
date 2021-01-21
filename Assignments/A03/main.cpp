@@ -2,7 +2,7 @@
 *
 *  Comment Author:    Daniel 
 *  Email:             morenoportillho@gmail.com
-*  Label:             A04
+*  Label:             A03
 *  Title:             Banner Page
 *  Course:            3013 - Algorithms
 *  Semester:          Spring 2020
